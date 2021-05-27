@@ -1,0 +1,13 @@
+{
+  "name": "first-discord-bot",
+  "version": "1.0.0",
+  "description": "Help Bot for Discord",
+  "main": "index.js",
+  "author": "marronjo",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  },
+  "scripts": {
+    "start": "node index"
+  }
+}
